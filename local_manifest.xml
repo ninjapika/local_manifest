@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Trees -->
+<project path="device/xiaomi/certus" name="ninjapika/android_device_xiaomi_certus.git" remote="github" revision="12" />
+<project path="vendor/mediatek-ims" name="ninjapika/vendor_mediatek-ims.git" remote="github" revision="12" />
+<project path="vendor/xiaomi" name="ninjapika/android_vendor_xiaomi.git" remote="github" revision="alps-11" />
+<project path="kernel/xiaomi/mt6765" name="ninjapika/android_kernel_xiaomi_mt6765.git" remote="github" revision="10-alps" />
+<project path="prebuilts/gcc/linux-x86/arm/arm-linux-gnueabihf-7.5" name="wulan17/linaro_arm-linux-gnueabihf-7.5.git" remote="github" revision="master" />
+<project path="external/libaptx" name="kbt69/libaptX.git" remote="github" revision="main" />
+
+</manifest>
